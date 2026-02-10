@@ -1,0 +1,5 @@
+{
+  "name": "GovTech Auditor AI",
+  "description": "A client-side application that analyzes public bid PDF documents using Gemini AI to identify risks, requirements, and go/no-go criteria.",
+  "requestFramePermissions": []
+}
